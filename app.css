@@ -18,7 +18,7 @@ body {
 main {
     justify-content: center;
     align-items: center;
-    width: 40%;
+    width: 50%;
     margin-top: 100px;
     display: flex;
     flex-direction: row;
